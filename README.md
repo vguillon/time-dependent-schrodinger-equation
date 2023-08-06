@@ -8,7 +8,8 @@ The initial wave packet is a (non-normalized) Gaussian function. It evolves over
 
 # Installation
 
-The program needs `numpy` and `matplotlib` to run. For movie generation, see the `matplotlib.animation` documentation (`ffmpeg` recommended).
+The program needs [numpy](https://numpy.org) and [matplotlib](https://matplotlib.org) to run. For movie generation, see the
+[matplotlib.animation](https://matplotlib.org/stable/api/animation_api.html) documentation ([ffmpeg](https://www.ffmpeg.org) recommended).
 
 You can clone the project in your current repository with:
 
