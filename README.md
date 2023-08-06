@@ -2,9 +2,9 @@
 
 The initial wave packet is a (non-normalized) Gaussian function. It evolves over a period T along the x-axis. A potential is placed on its path.
 
-movie gaussian 
+![movie gaussian potential](https://github.com/vguillon/time-dependent-schrodinger-equation/blob/main/movies/gaussian_potential.gif)
 
-snapshot step at t=0.3
+![snapshot step potential at t=0.3T](https://github.com/vguillon/time-dependent-schrodinger-equation/blob/main/snapshots/step_potential.png)
 
 # Installation
 
@@ -13,7 +13,7 @@ The program needs `numpy` and `matplotlib` to run. For movie generation, see the
 You can clone the project in your current repository with:
 
 ```
-$ git clone <link>
+$ git clone https://github.com/vguillon/time-dependent-schrodinger-equation.git
 ```
 
 # Parameters of the potentials
