@@ -2,7 +2,13 @@
 
 The initial wave packet is a (non-normalized) Gaussian function. It evolves over a period T along the x-axis. A potential is placed on its path.
 
+Evolution of the wave packet for a Gaussian potential (more examples available in
+[movies](https://github.com/vguillon/time-dependent-schrodinger-equation/tree/main/movies))
+
 ![movie gaussian potential](https://github.com/vguillon/time-dependent-schrodinger-equation/blob/main/movies/gaussian_potential.gif)
+
+Snapshot of the wave packet for a step potential (more examples available in 
+[snapshots](https://github.com/vguillon/time-dependent-schrodinger-equation/tree/main/snapshots))
 
 ![snapshot step potential at t=0.3T](https://github.com/vguillon/time-dependent-schrodinger-equation/blob/main/snapshots/step_potential.png)
 
